@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunmk06&label=Profile%20views&color=0e75b6&style=flat" alt="arjunmk06" /> </p>
 
-- 🔭 I’m currently working on [social-media](https://github.com/Arjunmk06/social-media)
+- 🔭 I’m currently working on [Mood based song recommendation]
 
 - 🌱 I’m currently learning **Nextjs,fastapi,Django**
 

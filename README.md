@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Y-Likitha&label=Profile%20views&color=0e75b6&style=flat" alt="Y-Likitha" /> </p>
 
-- 🔭 I’m currently working on [Mood based song recommendation]
+- 🔭 I’m currently working on [Mood based song recommendation](https://github.com/Y-Likitha/Song-Recommendation-Based-on-weather-and-mood)
 
 - 🌱 I’m currently learning **Nextjs,fastapi,Django**
 
